@@ -1,0 +1,130 @@
+#original_body{
+/*	opacity: 0.4;*/
+}
+#pref_graph{
+	position: fixed;
+	top:50px;
+	left:200px;
+	background-color:rgb(245, 245, 245);
+	border: 2px solid black;
+	border-radius: 6px; 
+	display: none;
+}
+.create_portfolio{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.create_portfolio input{
+	border: 1px solid black;
+	border-radius: 4px;
+	padding-left: 8px;
+}
+.portfolio{
+	border:1px solid black;
+	border-radius: 4px;
+	height:470px;
+}
+.portfolio_header{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+#portfolio_name{
+	font-size: 20px;
+	margin:0 10%;
+}
+#portfolio_number{
+	/*float: right;*/
+	margin: 4px;
+}
+#btn-USD{
+	margin:0 10%;
+}
+#stock_header{
+	display: block;
+}
+#stock_header th{
+	width:110px;
+}
+#stock{
+	display: block;
+	height: 200px;    
+    overflow-y: auto;    
+    overflow-x: hidden;
+}
+.stock_numbers{
+	font-size: 14px;
+	color:#191970;
+	margin-bottom: 4px;
+}
+#stock td{
+	width:110px;
+}
+.react-datalist{
+	z-index: 1;
+}
+.react-datalist-container{
+	border-style: none;
+}
+.react-datalist-input{
+	width:100%;
+	border-style: none;
+}
+#quantity{
+	width:100%;
+	border-style: none;
+}
+.portfolio_total{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+th,td{
+	text-align: center;
+}
+#graph_click{
+	margin-left:20px;
+}
+#delete_protfolio{
+	float:right;
+}
+.stockList{
+	margin-left: 20px;
+	padding-left: 10px;
+	margin-top: 16px;
+	width:100px;
+	height:380px;
+	display: inline-block;
+	/*border: 1px solid black;*/
+	float:left;
+	overflow: scroll;
+}
+.line_chart{
+	display: inline-block;
+	margin-right: 30px;
+}
+.select_time{
+	height:60px;
+}
+#starting_time_span{
+	margin-left: 240px;
+	margin-right: 80px;
+}
+#starting_time{
+	margin-left: 10px;
+	width:150px;
+}
+#ending_time{
+	margin-left: 10px;
+	width:150px;
+}
+.no_dot{
+	list-style-type: none;
+}
+#graph_head{
+	margin:10px;
+}
+#btn_close{
+	float:right;
+}
+#graph_pfName{
+	margin: 20px;
+}
