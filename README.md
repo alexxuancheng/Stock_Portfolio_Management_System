@@ -1,4 +1,4 @@
-# Stock_Portfolio_Management_System-SPMS
+# Stock_Portfolio_Management_System-SPMS (React)
 
 demo: https://alexxuancheng.github.io/Stock_Portfolio_Management_System/
 
